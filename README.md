@@ -9,5 +9,8 @@ This virus strikes by opening lots and I mean lots of malware webpages as well a
 
 It is not destructive by itself.
 
+## How to download a virus?
+Let's say you would like to download The Laggy Virus. You find file with the commit "Add the Laggy Virus" and download them all.
+
 ## I work hard, you know?
 Please smash that Star button since I worked hard to create this! 
