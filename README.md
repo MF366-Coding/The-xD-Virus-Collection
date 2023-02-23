@@ -10,4 +10,4 @@ This virus strikes by opening lots and I mean lots of malware webpages as well a
 It is not destructive by itself.
 
 ## I work hard, you know?
-Please smash that Star button since I worked hard! 
+Please smash that Star button since I worked hard to create this! 
