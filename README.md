@@ -1,8 +1,8 @@
-# The-xD-Virus-Collection
+# The Smiley Face Virus Collection
 This is a set of different viruses I created with Python for **EDUCATIONAL PURPOSES ONLY**! 
 
-## EDUCATIONAL PURPOSES ONLY!
-## I am not responsible for any damage to any device.
+# EDUCATIONAL PURPOSES ONLY!
+# I am not responsible for any damage to any device.
 
 ## The Laggy Virus
 This virus strikes by opening lots and I mean lots of malware webpages as well as random sites and Windows apps.
