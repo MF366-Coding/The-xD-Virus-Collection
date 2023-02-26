@@ -7,7 +7,12 @@ This is a set of different viruses I created with Python for **EDUCATIONAL PURPO
 ## The Laggy Virus
 This virus strikes by opening lots and I mean lots of malware webpages as well as random sites and Windows apps.
 
-It is not destructive by itself.
+It is **not** destructive **by itself**.
+
+## The Scary Virus
+This virus strikes by opening some creepy messages and at the same time running the youareanidiot popular virus.
+
+It is **not** destructive.
 
 ## How to download a virus?
 Let's say you would like to download The Laggy Virus. You find file with the commit "Add the Laggy Virus" and download them all.
