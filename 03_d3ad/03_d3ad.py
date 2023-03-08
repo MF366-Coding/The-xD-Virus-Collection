@@ -31,7 +31,7 @@ def scaryPopUps():
          
 def notepadEdit():
     pyautogui.hotkey('win', 'r')
-    pyautogui.typewrite(notepad)
+    pyautogui.typewrite('notepad')
     pyautogui.typewrite("I know your IP Adress.\nI'll send someone to you house to kill you...\nNah jk jk...\nI don't know your IP Adress...\nBut I know you computer is now d3ad!!!\nBy: MF366-Coding (I am on GitHub).\nI am not responsible fr anything because I warned you that this would happen...")
     pyautogui.hotkey('win', 'm')
     scaryPopUps()
